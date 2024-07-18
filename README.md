@@ -1,1 +1,1 @@
-# javascript-30days-challange-hc
+# javascript-30days-challenge-hc
